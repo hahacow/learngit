@@ -2,6 +2,6 @@ git is a distributed version control system
 git is a free software distributed under 
 git has a mutable index called stage
 git tracks changes
-create a new branch is quick and simple
+create a new branch is quick and 
 create a line at 1018
 
